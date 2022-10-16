@@ -98,7 +98,7 @@ This is an H2
   
   ***
   
-  ![dog](/dog.jfif)
+  <img src="/path/to/img.jpg" width="450px">
   
   
   
