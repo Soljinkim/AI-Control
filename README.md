@@ -98,7 +98,7 @@ This is an H2
   
   ***
   
-  ![cat](/cat.jfif)
+  ![Alt text](/path/to/img.jpg)
   
   
   
