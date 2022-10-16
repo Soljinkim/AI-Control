@@ -66,8 +66,8 @@ This is an H2
 
 
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+ * 1개 *
+ _ 1개 _
+ **2개째**
+ __2개째__
+ ~~취소선~~
