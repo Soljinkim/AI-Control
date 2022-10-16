@@ -72,3 +72,8 @@ This is an H2
   * 2개째
   * 2개째
   * ~~취소선~~
+  
+  ***
+  
+  ![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
