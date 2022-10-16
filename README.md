@@ -92,9 +92,9 @@ This is an H2
 
 * 자동연결
  
-  외부링크: < http://example.com/ >
+  외부링크: <http://example.com/>
   
-  이메일링크: < address@example.com >
+  이메일링크: <address@example.com>
   
   
   
