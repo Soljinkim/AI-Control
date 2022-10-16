@@ -75,5 +75,31 @@ This is an H2
   
   ***
   
-  ![Alt text](/path/to/img.jpg)
-![Alt text](/path/to/img.jpg "Optional title")
+  
+  * 참조링크
+
+  [naver][naverlink]
+  
+  [naverlink]: https://naver.com "Go naver"
+  
+  ***
+  
+  - 외부링크
+  [daum](https://www.daum.net)
+
+***
+* 자동연결
+ 외부링크: <http://example.com/>
+ 
+ 이메일링크: <address@example.com>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
