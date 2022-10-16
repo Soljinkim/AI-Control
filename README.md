@@ -98,11 +98,6 @@ This is an H2
   
   ***
   
-  <img src="/path/to/img.jpg" width="450px">
-  
-  
-  
-  
   
   
   
