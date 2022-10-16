@@ -98,8 +98,8 @@ This is an H2
   
   ***
   
-  ![Alt text](/path/to/img.jpg)
-  ![Alt text](/path/to/img.jpg "Optional title")
+  ![dog](/dog.jfif)
+  
   
   
   
