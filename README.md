@@ -1,4 +1,4 @@
-'''c
+```c
 import cv2
 import mediapipe as mp
 import numpy as np
@@ -108,7 +108,7 @@ while cap.isOpened():
     cv2.imshow('Game', img)
     if cv2.waitKey(1) == ord('q'):
         break
-'''    
+```    
     
 # 마크다운
 
